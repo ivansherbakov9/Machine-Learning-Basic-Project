@@ -1,0 +1,1 @@
+{"loss_function": "Logloss", "learning_rate": 0.01, "l2_leaf_reg": 0.2822222222222222, "iterations": 42, "depth": 6, "boosting_type": "Plain"}

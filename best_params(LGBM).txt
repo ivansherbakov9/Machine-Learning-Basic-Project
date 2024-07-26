@@ -1,0 +1,1 @@
+{"num_leaves": 10, "n_estimators": 106, "max_depth": 110, "learning_rate": 0.29583333333333334, "feature_fraction": 0.8, "boosting_type": "rf", "bagging_freq": 1, "bagging_fraction": 0.8}
