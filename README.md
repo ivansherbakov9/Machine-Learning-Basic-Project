@@ -9,4 +9,6 @@ Google Colab:
 Kaggle:
 * [Dataset](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024/data)
 
+*P.S.The comments to the code are given in Russian, but they do not play a significant role, and you can also translate them into your language using Google Translate.*
+
 *Author: Ivan Scherbakoff*
